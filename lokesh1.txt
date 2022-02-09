@@ -1,1 +1,0 @@
-Practicing DevOps using GIT
